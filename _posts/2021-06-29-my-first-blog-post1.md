@@ -1,1 +1,5 @@
-_posts/2021-06-29-my-first-blog-post.md
+
+---
+title: "Beginning of a New Era"
+date: 2021-06-29
+---
